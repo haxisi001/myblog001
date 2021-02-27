@@ -1,7 +1,7 @@
 {
   "name": "vuepress",
   "version": "1.0.0",
-  "description": "",
+  "description": "'# hello VuePress'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,5 +10,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxisi001/myblog001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haxisi001/myblog001/issues"
+  },
+  "homepage": "https://github.com/haxisi001/myblog001#readme"
 }
